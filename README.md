@@ -58,7 +58,7 @@ COMMANDS:
 
 ## Documentation
 
-[![doc](https://img.shields.io/badge/Documentation-pdf-red.svg)](./doc/documentation.pdf)
+[![doc](https://img.shields.io/badge/Documentation-pdf-red.svg)](./doc/html/index.html)
 
 ## Contributors
 
