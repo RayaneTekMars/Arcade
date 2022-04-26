@@ -1,0 +1,6 @@
+#	USERNAME	#	SCORE	#
+	Kyrian		290
+	TEST		2530
+	test		5180
+	username		2000
+	username2		1000

@@ -1,0 +1,2 @@
+add_subdirectory(arcade_pacman)
+add_subdirectory(arcade_nibbler)

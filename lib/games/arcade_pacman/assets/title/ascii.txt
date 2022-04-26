@@ -1,0 +1,6 @@
+XXXXXX\___XXXXX\___XXXXXX\_XXX\___XXX\__XXXXX\__XXX\___XX\
+XX/--XX\_XX/--XX\_XX/----J_XXXX\_XXXX|_XX/--XX\_XXXX\__XX|
+XXXXXX/J_XXXXXXX|_XX|______XX/XXXX/XX|_XXXXXXX|_XX/XX\_XX|
+XX/---J__XX/--XX|_XX|______XX|LXX/JXX|_XX/--XX|_XX|LXX\XX|
+XX|______XX|__XX|_LXXXXXX\_XX|_L-J_XX|_XX|__XX|_XX|_LXXXX|
+L-J______L-J__L-J__L-----J_L-J_____L-J_L-J__L-J_L-J__L---J

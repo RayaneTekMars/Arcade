@@ -1,0 +1,3 @@
+add_subdirectory(arcade_ncurses)
+add_subdirectory(arcade_sdl2)
+add_subdirectory(arcade_sfml)

@@ -1,0 +1,9 @@
+#	USERNAME	#	SCORE	#
+	TEST		797
+	Test		876
+	Yasmine		5000
+	et		18
+	test		1184
+	tet		36
+	username		2000
+	username2		1000

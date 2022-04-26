@@ -1,0 +1,6 @@
+_XXXXXX\___XXXXX\__XXX\___XXX\_XXXXXXX\______XXXXXX\__XX\___XX\_XXXXXXX\_XXXXXX\_
+XX/----J__XX/--XX\_XXXX\_XXXX|_XX/----J_____XX/---XX\_XX|___XX|_XX/----J_XX/--XX\
+XX|__XXX\_XXXXXXX|_XX/XXXX/XX|_XXXXX\_______XX|___XX|_XX|___XX|_XXXXX\___XXXXXX/J
+XX|___XX|_XX/--XX|_XX|LXX/JXX|_XX/--J_______XX|___XX|_LXX\_XX/J_XX/--J___XX/--XX\
+LXXXXXX/J_XX|__XX|_XX|_L-J_XX|_XXXXXXX\_____LXXXXXX/J__LXXXX/J__XXXXXXX\_XX|__XX|
+_L-----J__L-J__L-J_L-J_____L-J_L------J______L-----J____L---J___L------J_L-J__L-J
