@@ -56,10 +56,6 @@ COMMANDS:
   S     move down
 ```
 
-## Documentation
-
-[![doc](https://img.shields.io/badge/Documentation-pdf-red.svg)](./doc/html/index.html)
-
 ## Contributors
 
 - [Kyrian BITOUNE](https://github.com/kbitoune)
